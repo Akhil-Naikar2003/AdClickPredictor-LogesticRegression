@@ -37,14 +37,3 @@ The application:
 - **HTML/CSS** (Frontend)
 
 ---
-
-├── app.py                # Flask backend code
-├── train_model.py        # Script to train and save the model
-├── model.pkl             # Pre-trained Logistic Regression model
-├── templates/
-│   └── index.html        # HTML frontend
-├── static/
-│   └── style.css         # Optional CSS file (if separate)
-├── requirements.txt      # Python dependencies
-└── README.md             # Project documentation
-
